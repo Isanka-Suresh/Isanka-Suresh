@@ -1,3 +1,5 @@
+<img src="https://github.com/Isanka-Suresh/Isanka-Suresh/blob/main/assets/git_banner.jpg" alt="git banner" />
+
 # Hey, I'm Isanka Suresh! 😎
 ## 🚀 Who am I ?
 
