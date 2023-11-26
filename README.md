@@ -1,17 +1,51 @@
-<h1 align="center">Hi 👋, I'm Isanka Suresh</h1>
-<h3 align="center">A student, that will be a full-stack developer.</h3>
+# Hey, I'm Isanka Suresh! 😎
+## 🚀 Who am I ?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isanka-suresh&label=Profile%20views&color=0e75b6&style=flat" alt="isanka-suresh" /> </p>
+A passionate and enthusiastic individual on a continuous journey of learning and growth. Currently navigating the realm of academia as an undergraduate, I approach every challenge with a spirit of curiosity and dedication. My heart lies in the world of software engineering, where I channel my enthusiasm into crafting innovative solutions and embracing the dynamic nature of the field.
+   
+- 🧠 I'm currently learning JavaScript
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isanka-suresh" alt="isanka-suresh" /></a> </p>
+- 🤔 I'm looking for help with Game Development
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about Java
+
+- 📫 How to reach me isankasuresh@gmail.com
+
+- ⚡️ Fun fact I am a huge 🏴‍☠️One Piece🏴‍☠️ Fan 
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Isanka-Suresh&show_icons=true&theme=default&title_color=0fdb00&text_color=ffffff&bg_color=1a1b1e&hide_border=true" alt="Isanka-Suresh stats card" /></p>
+    
 <p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Isanka-Suresh" alt="Isanka-Suresh" />
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isanka-suresh&show_icons=true&locale=en&layout=compact" alt="isanka-suresh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isanka-suresh&show_icons=true&locale=en" alt="isanka-suresh" /></p>
+<a href="https://www.java.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
+<a href="https://cassandra.apache.org/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" height="40" width="40" />
+</a>
+<a href="https://www.photoshop.com/en" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" />
+</a>
+<a href="https://www.figma.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40" />
+</a>
+<a href="https://postman.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
+</a>
+<a href="https://www.w3.org/html/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+</a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isanka-Suresh&theme=default&title_color=00ff11&text_color=ffffff&bg_color=1a1b1e&hide_border=true&layout=default" alt="Isanka-Suresh stats card" /></p>
