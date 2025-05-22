@@ -29,12 +29,6 @@ A passionate and enthusiastic individual on a continuous journey of learning and
 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isanka-Suresh&show_icons=true&theme=default&title_color=0fdb00&text_color=ffffff&bg_color=1a1b1e&hide_border=true" alt="Isanka-Suresh stats card" /></p>
-    
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Isanka-Suresh" alt="Isanka-Suresh" />
-</a>
-</p>
 <a href="https://www.java.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
 </a>
